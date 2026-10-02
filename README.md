@@ -703,7 +703,7 @@ Method definitions and explicit algebraic derivations are distinguished from sou
 
 **Montassar Bouzidi**  
 GitHub: [montassar-ML](https://github.com/montassar-ML)  
-Personal email: `<ADD_EMAIL>`  
-LinkedIn: `<ADD_LINKEDIN>`
+Personal email: `<bouzidimontassar2@gmail.com>`  
+LinkedIn: `<https://www.linkedin.com/in/montassar-bouzidi-60a101206/>`
 
 This is an independent educational resource, not an endorsement by a software vendor or institution. Contributions should improve evidence, clarity or reproducibility; see [CONTRIBUTING.md](CONTRIBUTING.md).
