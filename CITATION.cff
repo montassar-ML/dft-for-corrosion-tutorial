@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite this educational repository and the original methodological and application papers relevant to your work."
+title: "Density Functional Theory for Corrosion Science"
+authors:
+  - family-names: "Bouzidi"
+    given-names: "Montassar"
+version: 0.1.0
+date-released: 2026-10-01
+license: MIT
+keywords:
+  - density-functional-theory
+  - corrosion
+  - electrochemistry
+  - surface-science
+  - tutorial

@@ -1,0 +1,28 @@
+# Private research and local contact/configuration drafts
+private/
+production/
+.env
+*.key
+*.pem
+# Licensed software / production data
+POTCAR
+POTCAR.*
+WAVECAR
+CHGCAR
+OUTCAR
+vasprun.xml
+*.wfn
+*.chk
+*.fchk
+*.gbw
+*.out
+*.log
+scratch/
+# Generated caches/editor files
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
